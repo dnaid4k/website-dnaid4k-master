@@ -1,3 +1,4 @@
+json server -  live server is needed for this project
 This is my portfolio website.Site will be upgraded using frameworks and libraries and i will put it on my linkedin/github so potential employer may look at it or people that seek for some project to be done or help.
 I have used html css js and package json in creation of this website.
 
