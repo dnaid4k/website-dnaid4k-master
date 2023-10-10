@@ -1,0 +1,31 @@
+{   
+    "c_v": "Portfolio Website",
+    "first_name": "Norbert",
+    "last_name": "Duchnowski",
+    "title": "Front-End Developer",
+    "data": [
+      {
+        "name": "E-sistemas, Spain Granada 2018",
+        "position": "IT trainee",
+        "duration": "1+ month",
+        "languages": "HTML, CSS, JavaScript",
+        "bio": "Installations and operations of personal computers."
+    },
+    {
+        "name": "React Course",
+        "position": "Frontend Developer - learning",
+        "duration": "10+ hours",
+        "languages": "JS, React",
+        "bio": "This course lasted for over 10 hours and covered JavaScript and React. I am excited to apply the knowledge I gained from this course to create dynamic and interactive user interfaces."
+    },
+    {
+        "name": "Tailwind Course",
+        "position": "Frontend Developer - learning",
+        "duration": "15+ hours",
+        "languages": "CSS, Tailwind",
+        "bio": " Common popular CSS framework that streamlines the process of building responsive and visually appealing websites. It provides a comprehensive set of pre-designed UI components and utility classes that can be easily customized to fit the needs of any project. Using Tailwind can save developers a significant amount of time and effort, making it an excellent choice for web development projects."
+    }
+      
+  ]
+   }
+ 
